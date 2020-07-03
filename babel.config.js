@@ -3,6 +3,6 @@ module.exports = {
     '@vue/cli-plugin-babel/preset'
   ],
   "plugins": [
-    "@babel/plugin-transform-flow-comments"
+    "transform-flow-comments"
   ]
 }
